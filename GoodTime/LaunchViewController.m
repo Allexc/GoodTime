@@ -92,7 +92,7 @@
 {
     [UIView animateWithDuration:0.2 animations:^{
         
-    }]
+    }];
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
