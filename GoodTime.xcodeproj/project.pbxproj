@@ -788,16 +788,13 @@
 				9F2DFAF71BF5BAEB008379B7 /* LaunchViewController.m */,
 				9F2DF90F1BF5B053008379B7 /* ViewController.h */,
 				9F2DF9101BF5B053008379B7 /* ViewController.m */,
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
+
 				9F217E141C2CCA5C000E4D59 /* xcccccccccccccccc.h */,
 				9F217E151C2CCA5C000E4D59 /* xcccccccccccccccc.m */,
-=======
+
 				F444C2351C2CCA300065A5CB /* newCollectionViewCell.h */,
 				F444C2361C2CCA300065A5CB /* newCollectionViewCell.m */,
->>>>>>> Stashed changes
->>>>>>> parent of 587564a... Revert "chen44444"
+
 				9F2D044C1BF5E44C008379B7 /* Common.h */,
 				9F2D044D1BF5E506008379B7 /* UIViewExt.h */,
 				9F2D044E1BF5E506008379B7 /* UIViewExt.m */,
