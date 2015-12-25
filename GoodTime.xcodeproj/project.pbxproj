@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F217E161C2CCA5C000E4D59 /* xcccccccccccccccc.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F217E151C2CCA5C000E4D59 /* xcccccccccccccccc.m */; };
 		9F2D03981BF5E321008379B7 /* actor.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F2D02C91BF5E321008379B7 /* actor.json */; };
 		9F2D03991BF5E321008379B7 /* cinema_detail.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F2D02CA1BF5E321008379B7 /* cinema_detail.json */; };
 		9F2D039A1BF5E321008379B7 /* cinema_list.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F2D02CB1BF5E321008379B7 /* cinema_list.json */; };
@@ -197,6 +198,7 @@
 		9F2DF9241BF5B053008379B7 /* GoodTimeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F2DF9231BF5B053008379B7 /* GoodTimeTests.m */; };
 		9F2DF92F1BF5B053008379B7 /* GoodTimeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F2DF92E1BF5B053008379B7 /* GoodTimeUITests.m */; };
 		9F2DFAF81BF5BAEB008379B7 /* LaunchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F2DFAF71BF5BAEB008379B7 /* LaunchViewController.m */; };
+		F444C2371C2CCA300065A5CB /* newCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F444C2361C2CCA300065A5CB /* newCollectionViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -217,6 +219,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F217E141C2CCA5C000E4D59 /* xcccccccccccccccc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xcccccccccccccccc.h; sourceTree = "<group>"; };
+		9F217E151C2CCA5C000E4D59 /* xcccccccccccccccc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = xcccccccccccccccc.m; sourceTree = "<group>"; };
 		9F2D02C91BF5E321008379B7 /* actor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = actor.json; sourceTree = "<group>"; };
 		9F2D02CA1BF5E321008379B7 /* cinema_detail.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cinema_detail.json; sourceTree = "<group>"; };
 		9F2D02CB1BF5E321008379B7 /* cinema_list.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cinema_list.json; sourceTree = "<group>"; };
@@ -435,6 +439,8 @@
 		9F2DF9301BF5B053008379B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F2DFAF61BF5BAEB008379B7 /* LaunchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LaunchViewController.h; sourceTree = "<group>"; };
 		9F2DFAF71BF5BAEB008379B7 /* LaunchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LaunchViewController.m; sourceTree = "<group>"; };
+		F444C2351C2CCA300065A5CB /* newCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newCollectionViewCell.h; sourceTree = "<group>"; };
+		F444C2361C2CCA300065A5CB /* newCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newCollectionViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -785,6 +791,7 @@
 				9F2DFAF71BF5BAEB008379B7 /* LaunchViewController.m */,
 				9F2DF90F1BF5B053008379B7 /* ViewController.h */,
 				9F2DF9101BF5B053008379B7 /* ViewController.m */,
+
 				9F2D044C1BF5E44C008379B7 /* Common.h */,
 				9F2D044D1BF5E506008379B7 /* UIViewExt.h */,
 				9F2D044E1BF5E506008379B7 /* UIViewExt.m */,
@@ -1285,6 +1292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F2D03B61BF5E321008379B7 /* UIImageView+HighlightedWebCache.m in Sources */,
+				F444C2371C2CCA300065A5CB /* newCollectionViewCell.m in Sources */,
 				9F2D03B41BF5E321008379B7 /* UIImage+MultiFormat.m in Sources */,
 				9F2D03AF1BF5E321008379B7 /* SDWebImageDownloaderOperation.m in Sources */,
 				9F2DF9111BF5B053008379B7 /* ViewController.m in Sources */,
@@ -1294,6 +1302,7 @@
 				9F2D044F1BF5E507008379B7 /* UIViewExt.m in Sources */,
 				9F2DF90E1BF5B053008379B7 /* AppDelegate.m in Sources */,
 				9F2DFAF81BF5BAEB008379B7 /* LaunchViewController.m in Sources */,
+				9F217E161C2CCA5C000E4D59 /* xcccccccccccccccc.m in Sources */,
 				9F2D03B51BF5E321008379B7 /* UIImage+WebP.m in Sources */,
 				9F2D03B71BF5E321008379B7 /* UIImageView+WebCache.m in Sources */,
 				9F2D03AE1BF5E321008379B7 /* SDWebImageDownloader.m in Sources */,
