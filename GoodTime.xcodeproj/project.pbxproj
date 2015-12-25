@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F217E191C2D0C62000E4D59 /* NNNNNNNNN.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F217E181C2D0C62000E4D59 /* NNNNNNNNN.m */; };
 		9F2D03981BF5E321008379B7 /* actor.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F2D02C91BF5E321008379B7 /* actor.json */; };
 		9F2D03991BF5E321008379B7 /* cinema_detail.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F2D02CA1BF5E321008379B7 /* cinema_detail.json */; };
 		9F2D039A1BF5E321008379B7 /* cinema_list.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F2D02CB1BF5E321008379B7 /* cinema_list.json */; };
@@ -218,6 +219,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F217E171C2D0C62000E4D59 /* NNNNNNNNN.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NNNNNNNNN.h; sourceTree = "<group>"; };
+		9F217E181C2D0C62000E4D59 /* NNNNNNNNN.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NNNNNNNNN.m; sourceTree = "<group>"; };
 		9F2D02C91BF5E321008379B7 /* actor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = actor.json; sourceTree = "<group>"; };
 		9F2D02CA1BF5E321008379B7 /* cinema_detail.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cinema_detail.json; sourceTree = "<group>"; };
 		9F2D02CB1BF5E321008379B7 /* cinema_list.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cinema_list.json; sourceTree = "<group>"; };
@@ -788,13 +791,10 @@
 				9F2DFAF71BF5BAEB008379B7 /* LaunchViewController.m */,
 				9F2DF90F1BF5B053008379B7 /* ViewController.h */,
 				9F2DF9101BF5B053008379B7 /* ViewController.m */,
-
-				9F217E141C2CCA5C000E4D59 /* xcccccccccccccccc.h */,
-				9F217E151C2CCA5C000E4D59 /* xcccccccccccccccc.m */,
-
 				F444C2351C2CCA300065A5CB /* newCollectionViewCell.h */,
+				9F217E171C2D0C62000E4D59 /* NNNNNNNNN.h */,
+				9F217E181C2D0C62000E4D59 /* NNNNNNNNN.m */,
 				F444C2361C2CCA300065A5CB /* newCollectionViewCell.m */,
-
 				9F2D044C1BF5E44C008379B7 /* Common.h */,
 				9F2D044D1BF5E506008379B7 /* UIViewExt.h */,
 				9F2D044E1BF5E506008379B7 /* UIViewExt.m */,
@@ -1302,6 +1302,7 @@
 				9F2D03AC1BF5E321008379B7 /* SDWebImageCompat.m in Sources */,
 				9F2D03B31BF5E321008379B7 /* UIImage+GIF.m in Sources */,
 				9F2D03B11BF5E321008379B7 /* SDWebImagePrefetcher.m in Sources */,
+				9F217E191C2D0C62000E4D59 /* NNNNNNNNN.m in Sources */,
 				9F2D044F1BF5E507008379B7 /* UIViewExt.m in Sources */,
 				9F2DF90E1BF5B053008379B7 /* AppDelegate.m in Sources */,
 				9F2DFAF81BF5BAEB008379B7 /* LaunchViewController.m in Sources */,
